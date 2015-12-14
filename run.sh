@@ -1,3 +1,3 @@
 #!/bin/sh
 
-go test -bench=. -benchtime 60
+go test -bench=. -benchtime=60
