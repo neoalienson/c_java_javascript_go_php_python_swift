@@ -1,6 +1,4 @@
-# go_vs_swift
-
-## A simple benchmark by using bubble sort for the following language
+# A simple benchmark by using bubble sort for the following language
 
 - C
 - Go
