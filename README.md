@@ -9,4 +9,4 @@
 - Swift
 
 Please visit or details,
-http://neo.works/2015/12/go-vs-swift-a-simple-benchmark-test
+[https://01man.com/2015/go-vs-swift-a-simple-benchmark-test/](https://01man.com/2015/go-vs-swift-a-simple-benchmark-test/)
